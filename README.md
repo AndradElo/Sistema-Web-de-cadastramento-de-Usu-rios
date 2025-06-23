@@ -27,9 +27,13 @@ O JavaScript gerencia a lógica do CRUD, manipula o DOM e interage com o localSt
 
            / Alunos /
 
-Eloyse de Andrade Pereira           
+Eloyse de Andrade Pereira     
+
 Filipe Alves de Sousa Lemos  
+
 Ari Lopes dos Santos 
+
 Nicoly Gomes Martins
+
 Lucas Souza Silva  
 
